@@ -1,0 +1,12 @@
+com\heroku\tests\ButtonTests.class
+com\heroku\tests\ChallengingDOMTest.class
+com\heroku\tests\LinkIFrameTest.class
+com\heroku\tests\DropdownOptionsTest.class
+com\heroku\tests\TestBase.class
+com\heroku\tests\BrokenImagesTest.class
+com\heroku\tests\CheckboxesPagesTest.class
+com\heroku\tests\DragAndDropTest.class
+com\heroku\tests\LinkIFramesInFramesPageTest.class
+com\heroku\tests\FramesPageTest.class
+com\heroku\tests\UploadPageTest.class
+com\heroku\tests\LinkNestedInFramesPageTests.class

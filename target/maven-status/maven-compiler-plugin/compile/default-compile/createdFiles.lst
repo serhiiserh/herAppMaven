@@ -1,0 +1,9 @@
+com\heroku\menu\BasePage.class
+com\heroku\menu\ChallengingDOMPage.class
+com\heroku\menu\DragAndDropPage.class
+com\heroku\menu\FramesPage.class
+com\heroku\menu\HomePage.class
+com\heroku\menu\BrokenImagesPage.class
+com\heroku\menu\UploadPage.class
+com\heroku\menu\CheckboxesPage.class
+com\heroku\menu\DropdownPage.class
